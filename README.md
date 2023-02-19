@@ -1,6 +1,7 @@
 # GitHub-Searcher
-A React app to search users in GitHub. You can access in the following link:
+A React web app that searches for a GitHub, list all matches and shows a resumed version of the user page. There is an About page that shows data about the app. It’s using the GitHub API to fetch the results.
 
+You can access in the following link:
 https://github-searcher-lucpena.netlify.app
 
 # Screenshots
